@@ -1,6 +1,9 @@
 # LetsDefend-SOC-Monitoring
 LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.
 
+<img width="3402" height="1777" alt="image" src="https://github.com/user-attachments/assets/9a75c6b6-cbb4-40ab-b8da-7c1d1812915e" />
+
+
 ## Security Analyst
 A security analyst protects an organization's computer systems and networks from cyber threats by monitoring suspicious activity, investigating incidents, and implementing security measures.
 
